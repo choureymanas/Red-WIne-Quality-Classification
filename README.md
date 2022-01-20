@@ -1,1 +1,1 @@
-# Red-WIne-Quality-Classification
+# Red-Wine-Quality-Classification
